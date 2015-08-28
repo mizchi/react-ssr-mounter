@@ -1,11 +1,11 @@
 {
-  "name": "react-ssr-mounter",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@mizchi/react-ssr-mounter",
+  "version": "0.1.0",
+  "description": "react server side template mounter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "mizchi",
+  "license": "MIT"
 }
